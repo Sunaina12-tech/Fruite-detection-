@@ -1,0 +1,1 @@
+This repository contains the code for a fruit detection project, designed to identify and classify various fruits within images or video streams. This project can be used in various applications such as automated fruit sorting, quality control in agriculture, and inventory management.
